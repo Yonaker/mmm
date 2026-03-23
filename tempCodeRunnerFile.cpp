@@ -9,7 +9,7 @@ int main() {
     double cateto1, cateto2, hipotenusa;
 
     // Calcula la hipotenusa cinco veces
-    while (i <= 5) {
+    while (i <= 6) {
 
         cout << "Calculo : " << i << endl;
 
